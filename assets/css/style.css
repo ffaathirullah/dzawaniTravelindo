@@ -7,11 +7,11 @@ body {
 }
 
 a {
-  color: #d2691e;
+  color: #dd1088;
 }
 
 a:hover {
-  color: #d2691e;
+  color: #dd1088;
   text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #d2691e;
+  background: #dd1088;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -50,7 +50,7 @@ h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #c06c30;
+  background: #dd1088;
   transition: background 0.2s ease-in-out;
 }
 
@@ -114,7 +114,7 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #c06c30;
+  background: #dd1088;
   color: #fff;
   text-decoration: none;
 }
@@ -177,7 +177,7 @@ h6 {
 .nav-menu a:hover i,
 .nav-menu .active > a i,
 .nav-menu li:hover > a i {
-  color: #d2691e;
+  color: #dd1088;
 }
 
 /* Mobile Navigation */
@@ -197,7 +197,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #d2691e;
+  color: #dd1088;
 }
 
 .mobile-nav-active {
@@ -269,7 +269,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #f4a460;
+  border-bottom: 3px solid #dd1088;
 }
 
 @media (min-width: 1024px) {
@@ -317,7 +317,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #964b00;
+  color: #dd1088;
 }
 
 .section-title h2::after {
@@ -326,7 +326,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #d2691e;
+  background: #dd1088;
   bottom: 0;
   left: 0;
 }
@@ -341,13 +341,13 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #964b00;
+  color: #dd1088;
 }
 
 .about .content h5 {
   font-weight: 600;
   font-size: 18px;
-  color: #964b00;
+  color: #dd1088;
 }
 
 .about .content ul {
@@ -379,7 +379,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #e96508;
+  color: #dd1088;
 }
 
 .about .content p:last-child {
@@ -441,7 +441,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #e96508;
+  background-color: #dd1088;
 }
 
 /*--------------------------------------------------------------
@@ -459,7 +459,7 @@ section {
 }
 
 #services .icon-box .icon i {
-  color: #e58947;
+  color: #dd1088;
   font-size: 36px;
   transition: 0.3s;
 }
@@ -486,7 +486,7 @@ section {
 }
 
 #services .icon-box:hover h4 a {
-  color: #e58947;
+  color: #dd1088;
 }
 
 /*--------------------------------------------------------------
@@ -504,7 +504,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #e58947;
+  border-left: 2px solid #dd1088;
   position: relative;
 }
 
@@ -520,7 +520,7 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #ff7f50;
+  background: #dd1088;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -548,7 +548,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #ff7f50;
+  border: 2px solid #dd1088;
 }
 
 /*--------------------------------------------------------------
@@ -583,7 +583,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #ff7f50;
+  color: #dd1088;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -601,7 +601,7 @@ section {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: #c77c61(255, 255, 255, 0.5);
+  background: #c76188(255, 255, 255, 0.5);
   position: absolute;
   left: 0;
   right: 0;
@@ -665,7 +665,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: rgba(94, 59, 59, 0.95);
+  background: rgba(112, 12, 54, 0.95);
 }
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
@@ -719,7 +719,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #37517e;
+  color: #dd1088;
 }
 
 .team .member span {
@@ -765,13 +765,13 @@ section {
 }
 
 .team .member .social a i {
-  color: #37517e;
+  color: #dd1088;
   font-size: 16px;
   margin: 0 2px;
 }
 
 .team .member .social a:hover {
-  background: #8d3a1b;
+  background: #dd1088;
 }
 
 .team .member .social a:hover i {
@@ -822,7 +822,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #964b00;
+  color: #dd1088;
 }
 
 .contact .info .email p {
@@ -832,7 +832,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #8d3a1b;
+  background: #dd1088;
   color: #fff;
 }
 
